@@ -16,7 +16,13 @@
   "codeZ": "جاوا و ایکس ام ال",
   "codeM": "دانسته های شخصی",
   "codeN_0": "روشن کردن چراغ قوه",
-  "codeP_0": "LayoutInflater inflater;",
+  "codeP_0": "android.hardware.camera2.CameraManager cameraManager = (android.hardware.camera2.CameraManager) getSystemService(this.CAMERA_SERVICE);
+        try {
+            String cameraId = cameraManager.getCameraIdList()[0];
+            cameraManager.setTorchMode(cameraId, true);
+            } catch (android.hardware.camera2.CameraAccessException e) {
+                // ناموفق
+}",
   "codeN_1": "خاموش کردن چراغ قوه",
   "codeP_1": "file:///android_asset/index.html",
   "codeN_2": "فاک یو",
