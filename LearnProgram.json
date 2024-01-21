@@ -17,10 +17,10 @@
   "codeM": "دانسته های شخصی",
   "codeN_0": "روشن کردن چراغ قوه",
   "codeP_0": "android.hardware.camera2.CameraManager cameraManager = (android.hardware.camera2.CameraManager) getSystemService(this.CAMERA_SERVICE);
-        try {
+        try \{
             String cameraId = cameraManager.getCameraIdList()[0];
             cameraManager.setTorchMode(cameraId, true);
-            } catch (android.hardware.camera2.CameraAccessException e) {
+            \} catch (android.hardware.camera2.CameraAccessException e) {
                 // ناموفق
 }",
   "codeN_1": "خاموش کردن چراغ قوه",
