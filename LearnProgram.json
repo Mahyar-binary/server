@@ -52,7 +52,5 @@ startActivity(uninstallIntent);
   "codeN_4": "انتخاب متن از روی تکست ویو",
   "codeP_4": "yourTextViewName.setTextIsSelectable(true);",
   "codeN_5": "اجرای برنامه",
-  "codeP_5": "
-Intent launchIntent = getPackageManager().getLaunchIntentForPackage(\"com.package.address\");
-startActivity(launchIntent);"
+  "codeP_5": "Intent launchIntent = getPackageManager().getLaunchIntentForPackage(\"com.package.address\");\nstartActivity(launchIntent);"
 }
