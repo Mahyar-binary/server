@@ -85,7 +85,7 @@
   "learnD_17": "ساخت انواع بک گراند از جمله دارای نوار دارای چند رنگ و گوشه گرد.",
   "learnM_17": "https://drive.google.com/file/d/1No08uuk6rXSVOb3WnlZoj_2QPSvpLdRt/view?usp=drivesdk",
   "learnL_17": "https://abrehamrahi.ir/o/public/xbo6Dpzm",
-  "code": 8,
+  "code": 9,
   "codeZ": "جاوا و ایکس ام ال",
   "codeM": "دانسته های شخصی",
   "codeN_0": "روشن کردن چراغ قوه",
@@ -103,5 +103,7 @@
   "codeN_6": "بستن برنامه به صورت کامل",
   "codeP_6": "finishAffinity();",
   "codeN_7": "بستن اکتیویتی فعلی",
-  "codeP_7": "finish();"
+  "codeP_7": "finish();",
+  "codeN_8": "ساخت دکمه در جاوا",
+  "codeP_8": "Button button = new Button(this);\nbutton.setText(\"click me\");\nbutton.setWidth(200);\nbutton.setHeight(100);\nyourLayout.addView(button);"
 }
