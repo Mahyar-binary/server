@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "ads": true,
+  "version": 5,
+  "ads": false,
   "ads_text": "myket is the best , for\nall",
   "ads_link": "https://myket.ir",
   "ads_image": "https://myket.ir/logo.png",
