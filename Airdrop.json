@@ -2,8 +2,7 @@
     "active": true,
     "version": 1,
     "number": "1",
-    "char_0": "",
-    "show_0": "",
-    "link_0": "",
-    "image_0": ""
+    "show_0": "ربات فلان",
+    "link_0": "https://myket.ir",
+    "image_0": "test.jpg"
 }
