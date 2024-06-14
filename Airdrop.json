@@ -1,13 +1,21 @@
 {
     "active": true,
     "version": 1,
-    "number": "2",
+    "number": "4",
     "show_0": "ایردراپ تلگرامی ترونیکس برای جمع آوری توکن ترون و شیبا که قیمت کنونی هر ترون حدود 6,700 تومن است.",
     "link_0": "https://t.me/tronixapp_bot?start=6876413718",
     "image_0": "tronix.jpg",
     "state_0": "فعال",
-    "show_1": "ربات ترونا رباتی دیگر برای جمع آوری توکن ترون مانند ربات ترونیکس",
+    "show_1": "ربات ترونا رباتی دیگر برای جمع آوری توکن ترون مانند ربات ترونیکس.",
     "link_1": "https://t.me/tronanaapp_bot?start=6876413718",
     "image_1": "trona.jpg",
-    "state_1": "فعال"
+    "state_1": "فعال",
+    "show_2": "ربات استخراج سولانا که با آن میتوانید توکن سولانا برداشت کنید.",
+    "link_2": "https://t.me/sol_extractor_bot?start=jw5jxf",
+    "state_2": "فعال",
+    "image_2": "solana.jpg",
+    "show_3": "ربات معروف همستر برای استخراج توکن همستر که هنوز قیمت گزاری نشده است.",
+    "link_3": "https://t.me/hamster_komBat_bot/start?startapp=kentId6876413718",
+    "state_3": "فعال",
+    "image_3": "hamster.jpg"
 }
