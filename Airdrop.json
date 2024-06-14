@@ -1,11 +1,13 @@
 {
     "active": true,
     "version": 1,
-    "number": "1",
+    "number": "2",
     "show_0": "ایردراپ تلگرامی ترونیکس برای جمع آوری توکن ترون و شیبا که قیمت کنونی هر ترون حدود 6,700 تومن است.",
     "link_0": "https://t.me/tronixapp_bot?start=6876413718",
     "image_0": "tronix.jpg",
+    "state_0": "وضعیت : فعال",
     "show_1": "ربات ترونا رباتی دیگر برای جمع آوری توکن ترون مانند ربات ترونیکس",
     "link_1": "https://t.me/tronanaapp_bot?start=6876413718",
-    "image_1": "trona.jpg"
+    "image_1": "trona.jpg",
+    "state_1": "وضعیت : فعال"
 }
